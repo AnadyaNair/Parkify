@@ -1,8 +1,3 @@
-
-# Parkify
-
-"PARKIFY - PARKING MANAGEMENT SOLUTION BUILT USING MYSQL, PYTHON, AND TKINTER"
-
 ## Introduction
 Parkify is a comprehensive parking management solution
 designed to streamline the complexities of parking operations
